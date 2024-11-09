@@ -1,14 +1,12 @@
 github_users:
   - harshbg
-  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
   - harshbg/Sign-Language-Interpreter-using-Deep-Learning
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - harshbg/US-Consumer-Time-Spend-Analysis
+  - harshbg/Los-Angeles-Restaurant-Data-Analysis-and-Prediction
+  - harshbg/Shaving-Blades-Analysis
+  - harshbg/PUBG-Game-Data-Analysis
+  - harshbg/Energy-Efficiency-Enhancement-using-Neural-Networks
